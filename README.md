@@ -71,11 +71,3 @@ The app lets users register and log in, plan their day with prioritized tasks, v
 5. Task Detail
 6. Settings
 
-## Module Progress
-
-- [x] Module 1 — User stories & Figma wireframes
-- [ ] Module 2 — Login, registration, home, detail screens & navigation
-- [ ] Module 3 — Data persistence & API integration
-- [ ] Module 4 — Settings screen
-- [ ] Module 5 — Notifications, publishing prep & marketplace listing
-- [ ] Module 6 — Final submission & peer review
